@@ -1,16 +1,8 @@
 {
-  "name": "sgen",
-  "version": "0.1.1",
-  "author": "Sérgio Ramos <mail@sergioramos.me>",
+  "name": "ramitos-sgen",
   "description": "string generator",
-  "license": "MIT",
+  "version": "0.1.1",
   "main": "src/sgen.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ramitos/sgen"
-  },
-  "keywords": [
-    "string",
-    "random"
-  ]
+  "dependencies": {},
+  "license": "MIT"
 }
